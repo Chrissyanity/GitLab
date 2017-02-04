@@ -1,0 +1,73 @@
+.navrow {
+    background-color: #DA8234;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #F2C7A1;
+}
+
+.jumbotron {
+    background-color: #F2C7A1;
+    border-bottom: 5px solid #EA5E2D;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    margin-top: 10px;
+}
+
+.firstrow {
+    background-color: #DA8234;
+}
+.article {
+  background-color: #F2C7A1;
+}
+.button {
+    color: #DA8234;
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+    font-family: 'Pacifico', cursive;
+}
+
+
+
+footer .list-inline li:not(first-child):not(last-child) {
+    border-right: 1px solid #F2C7A1;
+}
+
+
+footer {
+  display: inline;
+  background-color: #DA8234;
+  margin-left: 5px;
+}
+.bottomfoot {
+  text-align: center;
+  background-color: #DA8234;
+}
+body {
+  background-color: #EA5E2D;
+}
+.list-inline {
+  background-color: transparent;
+}
+.columns2 {
+  float: right;
+  margin-top: 55px;
+  margin-right: 5px;
+}
